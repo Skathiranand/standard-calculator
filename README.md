@@ -24,9 +24,7 @@ To design a web application for a standard calculator.
 
 Validate the HTML and CSS code.
 
-### Step 6:
 
-Publish the website in the given URL.
 
 ## PROGRAM :
 
